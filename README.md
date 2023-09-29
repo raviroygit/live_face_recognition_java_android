@@ -26,7 +26,7 @@ A minimalistic Face Recognition module which can be easily incorporated in any A
 Use Import from Version Control in Android Studio or Clone repo and open the project in Android Studio.
 
 ```bash
-git clone https://github.com/atharvakale31/Face_Recognition_Android.git
+git clone https://github.com/raviroygit/live_face_recognition_java_android
 ```
 
 ## Usage
